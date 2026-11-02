@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+   # Données (trop lourdes, à télécharger depuis la page officielle)
+   data/
+   *.csv
+   # Modèles sauvegardés
+   modeles/
+   *.joblib
